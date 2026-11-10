@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LEO12\\Desktop\\Programming Languages Homework 3\\P27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51C8B46E-26F3-41C6-9778-032510C1042A}|P27.vcxproj|C:\\Users\\LEO12\\Desktop\\Programming Languages Homework 3\\P27\\P27.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51C8B46E-26F3-41C6-9778-032510C1042A}|P27.vcxproj|solutionrelative:P27.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P27.cpp",
+              "DocumentMoniker": "C:\\Users\\LEO12\\Desktop\\Programming Languages Homework 3\\P27\\P27.cpp",
+              "RelativeDocumentMoniker": "P27.cpp",
+              "ToolTip": "C:\\Users\\LEO12\\Desktop\\Programming Languages Homework 3\\P27\\P27.cpp",
+              "RelativeToolTip": "P27.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-07T07:34:56.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
